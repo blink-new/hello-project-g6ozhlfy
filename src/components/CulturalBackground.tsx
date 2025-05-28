@@ -30,7 +30,7 @@ const languageFacts: Record<string, string[]> = {
     'The Spanish language has two names: español and castellano.'
   ],
   'Chinese': [
-    'Mandarin Chinese is the most spoken language in the world.',
+    'Mandarin Chinese is the most spoken native language in the world.',
     'Chinese uses a logographic writing system with thousands of characters.',
     'Chinese is a tonal language—meaning pitch changes word meaning.',
     'There are many Chinese dialects, but Mandarin is the official language.'
@@ -288,7 +288,7 @@ const languageFacts: Record<string, string[]> = {
     'Tajik has many Russian loanwords.'
   ],
   'English': [
-    'English is the most widely spoken language in the world.',
+    'English is the most widely spoken language in the world (by total speakers).',
     'English is a Germanic language with a large vocabulary from Latin and French.',
     'English is the official language of over 60 countries.',
     'English has no official regulatory body.'
